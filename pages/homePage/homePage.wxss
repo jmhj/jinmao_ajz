@@ -1,0 +1,48 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #000;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+
+.head {
+  background-color: #ffcf69;
+  width: 100%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.net-asset {
+  padding-top: 30px;
+  color: #fff;
+}
+
+.head-number {
+  padding-top: 20px;
+  font-size: 30pt;
+}
+
+.record {
+  margin-top: 30px;
+}
+
+.container {
+  padding: 0px
+}
